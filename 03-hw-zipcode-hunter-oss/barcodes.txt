@@ -1,0 +1,5 @@
+45701     :|::| :|:|: |:::| ||::: :::|| ::||:
+456       Error: zip code must be 5 digits
+56-45     Error: Code is invalid
+564565    Error: zip code must be 5 digits
+12345     :::|| ::|:| ::||: :|::| :|:|: :|:|:
